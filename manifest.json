@@ -1,0 +1,16 @@
+{
+  "name": "BIG BRO · Vigilancia Ciudadana",
+  "short_name": "BIG BRO",
+  "description": "Mapa colaborativo de cámaras de vigilancia en España",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0000",
+  "theme_color": "#cc1a1a",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["utilities", "social"],
+  "lang": "es"
+}
